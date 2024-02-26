@@ -1,3 +1,3 @@
 module github.com/artsarhub/linked-list-practice
 
-go 1.21.1
+go 1.21
